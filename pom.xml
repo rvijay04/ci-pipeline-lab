@@ -2,7 +2,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.neueda.leap</groupId>
     <artifactId>team-skeleton</artifactId>
-    <version>0.1.0</version>
+    <!-- Version of the project -->
+   <!-- <version>0.1.0</version> -->
     <packaging>jar</packaging>
 
     <properties>
